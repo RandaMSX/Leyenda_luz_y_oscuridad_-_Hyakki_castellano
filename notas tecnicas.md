@@ -1,0 +1,10 @@
+Traducción
+Los cinco capítulos, el prólogo, el menú inicial y todos los menús están en castellano, con tildes, ñ y signos ¿ ¡ « » gracias a una fuente propia. El original solo traía caracteres japoneses.
+Los textos se ajustan solos al ancho de la caja y se reparten en páginas de 7 líneas como máximo. El “Pulsa RETURN” sale en una línea aparte cuando cabe.
+Los títulos de los capítulos y los nombres de las opciones se han adaptado a los límites de pantalla, por ejemplo “Prensa 1/2/3”, “Reloj” y “Examinar”.
+
+Mejoras en el juego
+Hora del capítulo 1: se muestra como “1:30 h”, y ya no puede salir “3:60 h”.
+Pantallas de fin: todos los finales malos y el final del juego vuelven al menú inicial. En el original se quedaban colgados o iban a grabar la partida.
+Capítulo 5: Se han corregido dos fallos del original: una espera de tecla mal escrita y el error “RETURN without GOSUB”.
+Prólogo: el menú inicial está centrado y la portada del libro lleva el título “La leyenda de la luz y la oscuridad” en dos líneas.
