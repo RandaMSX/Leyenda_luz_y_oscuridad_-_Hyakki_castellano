@@ -24,7 +24,7 @@ El juego correspondiente a la recopilación de la saga en formato DSK, exactamen
 | MD5 | `8628015bd2155e7b6f17b5c83497468b` |
 | SHA-1 | `9ff194aa42cf4a5e5381a7ccae0153bfc51ebb38` |
 
-El parche es [`releases/Leyendaluzoscuridad_ES_v1.0.ips`](releases/Leyendaluzoscuridad_ES_v1.0.ips), también disponible en la página de la release v1.0.
+El parche es [`releases/LLO_Hyakki_ES_v1.0.ips`](releases/LLO_Hyakki_ES_v1.0.ips), también disponible en la página de la release v1.0.
 
 ## Agradecimientos
 Al Soft Studio Wing, por hacer un juego tan asombroso en 1985 pese a tener muy pocos medios.<br><br>
