@@ -47,5 +47,5 @@ El resultado debe ser este:
 ## Créditos
 
 * **Juego original:** 白と黒の伝説［百鬼編］ (Shiro to kuro no densetsu: Hyakki hen), Soft Studio Wing, 1985.
-* **Traducción inicial:** Claude.
+* **Traducción inicial y corrección de bugs:** Claude.
 * **Traducción final, revisión y edición:** randamhajile.
