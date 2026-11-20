@@ -43,6 +43,17 @@ El resultado debe ser este:
 | MD5 | `617e8ff81543642f2f9f0a15177b8366` |
 | SHA-1 | `152c013a8cbb4efaa21c25f4621356bb71568ee2` |
 
+## Qué hay en el repositorio
+
+- `releases/LLO_Hyakki_ES_v1.0.ips`: el parche.
+- `docs/`: solución, notas técnicas y otros datos.
+
+**No se incluyen ni el disquete original ni el traducido.**
+
+## Pruebas
+
+- Partida completa ganada con un intérprete de MSX-BASIC propio y un jugador automático. La misma partida con el original japonés, tecleando en katakana, sigue exactamente el mismo camino (63 467 pasos iguales).
+- Partida completa terminada por araubi.
 
 ## Créditos
 
