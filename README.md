@@ -7,10 +7,10 @@ Versión traducida (v1.0) en openMSX, con un Sony HB-F500 (MSX2 japonés).
 
 | | |
 |---|---|
-| ![Pantalla de título](capturas/captura1.png) | ![Introducción en castellano](capturas/captura2.png) |
+| ![Pantalla de título](capturas/captura_1.png) | ![Primera aparición de Hyakki](capturas/captura_2.png) |
 | Pantalla de título | Primera aparición de Hyakki |
-| ![Piso 3: BUSCAR BUZON](capturas/captura3.png) | ![Habitación A: BUSCAR MESA](capturas/captura4.png) |
-| Piso 3: `BUSCAR` `BUZON` | Habitación A: `BUSCAR` `MESA` |
+| ![Espacio en rojo](capturas/captura_3.png) | ![Belgarder](capturas/captura_4.png) |
+| Espacio en rojo | Belgarder |
 
 ## Agradecimientos
 Al Soft Studio Wing, por hacer un juego tan asombroso en 1985 pese a tener muy pocos medios.<br><br>
