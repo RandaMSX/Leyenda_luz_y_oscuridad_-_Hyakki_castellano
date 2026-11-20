@@ -52,8 +52,7 @@ El resultado debe ser este:
 
 ## Pruebas
 
-- Partida completa ganada con un intérprete de MSX-BASIC propio y un jugador automático. La misma partida con el original japonés, tecleando en katakana, sigue exactamente el mismo camino (63 467 pasos iguales).
-- Partida completa terminada por araubi.
+- Partida completa terminada por randamhajile, aplicando la solución que se encuentra en la carpeta docs/.
 
 ## Créditos
 
