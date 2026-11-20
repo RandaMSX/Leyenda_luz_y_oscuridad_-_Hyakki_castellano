@@ -1,8 +1,8 @@
 Shiro to kuro no densetsu consiste en una trilogía de juegos desarrollados por el Soft Studio Wing, un equipo de programadores que ya tenía experiencia creando juegos para MSX como Zanbe House o Moriko Kyouhaku Jiken. Dicha trilogía consiste en los siguientes títulos:
 
--Shiro to kuro no densetsu: Hyakki hen (1985)
--Shiro to kuro no densetsu: Rinne tensei hen (1986)
--Shiro to kuro no densetsu: Asuka hen (1987)
+- Shiro to kuro no densetsu: Hyakki hen (1985)
+- Shiro to kuro no densetsu: Rinne tensei hen (1986)
+- Shiro to kuro no densetsu: Asuka hen (1987)
 
 Hubo planes para hacer una cuarta y última entrega, Shiro to kuro no densetsu: Harmagedon hen, pero finalmente se cambió por hacer una serie de obras derivadas. Aunque cabe decir que en 1989 apareció para el ordenador PC8801 el cierre definitivo de la franquicia en forma de reboot con el título Shiro to kuro no densetsu: Destruction que apareció en dos entregas. 
 
