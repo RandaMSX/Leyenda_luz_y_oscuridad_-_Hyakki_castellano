@@ -1,7 +1,16 @@
-Este parche traduce el juego *Shiro to kuro no densetsu: Hyakki hen* de MSX en su versión de disquete. Para aplicarlo se puede usar cualquier herramienta disponible, como el Lunar IPS.
-Se ha probado su buen funcionamiento en el emulador OpenMSX con la configuración del MSX2 SONY HB-F500. Debería funcionar también en cualquier hardware original de MSX2, MSX2+ y Turbo-R.<br><br>
-Se necesita previamente el juego en formato .dsk con el hash SHA1: 9FF194AA42CF4A5E5381A7CCAE0153BFC51EBB38.<br><br>
-En este repositorio **no está el juego** ni tampoco la banda sonora que acompaña al juego, solamente el parche.<br><br>
+# *La Leyenda de la luz y la oscuridad - Hyakki* en castellano (MSX)
+Traducción completa al castellano del juego *Shiro to kuro no densetsu: Hyakki hen* (Soft Wing, 1985) de MSX en su versión de disquete.
+El repositorio **no incluye el juego**: solo el parche IPS que convierte el juego al idioma castellano, con instrucciones para aplicarlo.
+## Capturas
+
+Versión traducida (v1.0) en openMSX, con un Sony HB-F500 (MSX2 japonés).
+
+| | |
+|---|---|
+| ![Pantalla de título](capturas/captura1.png) | ![Introducción en castellano](capturas/captura2.png) |
+| Pantalla de título | Introducción |
+| ![Piso 3: BUSCAR BUZON](capturas/captura3.png) | ![Habitación A: BUSCAR MESA](capturas/captura4.png) |
+| Piso 3: `BUSCAR` `BUZON` | Habitación A: `BUSCAR` `MESA` |
 
 ## Agradecimientos
 Al Soft Studio Wing, por hacer un juego tan asombroso en 1985 pese a tener muy pocos medios.<br><br>
