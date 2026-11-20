@@ -44,9 +44,8 @@ El resultado debe ser este:
 | SHA-1 | `3406183951e717e5c66e1c4098c737a7ef4d60eb` |
 
 
-## Créditos y Copyright
+## Créditos
 
-* **Traducción:** Copyright (c) 2026 randamhajile. Distribuido bajo la licencia CC BY-NC-SA 4.0.
-* **Juego original:** 白と黒の伝説［百鬼編］ (Shiro to kuro no densetsu: Hyakki hen) es propiedad intelectual y marca registrada de Soft Studio Wing. 
-
-Este proyecto es una traducción hecha por fans sin ánimo de lucro. No contiene archivos originales protegidos por derechos de autor del juego; requiere una copia legítima del título para funcionar.
+* **Juego original:** 白と黒の伝説［百鬼編］ (Shiro to kuro no densetsu: Hyakki hen), Soft Studio Wing, 1985.
+* **Traducción inicial:** Claude.
+* **Traducción final, revisión y edición:** randamhajile.
