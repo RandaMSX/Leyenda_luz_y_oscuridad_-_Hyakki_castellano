@@ -3,7 +3,7 @@ Se ha probado su buen funcionamiento en el emulador OpenMSX con la configuració
 Se necesita previamente el archivo .dsk con el hash SHA1: 9FF194AA42CF4A5E5381A7CCAE0153BFC51EBB38. En este repositorio no está este archivo, solamente el parche.
 
 ## Agradecimientos
-Al Soft Studio Wing, por hacer un juego tan asombroso en 1985 pese a tener muy pocos medios. 
-Al usuario de YouTube F_T_B, por haber hecho un vídeo tan bien hecho sobre el estudio que me descubrió este juego y otros que se traducirán próximamente. 
-A araubi, por haber iniciado sus traducciones con Claude y hacerme ver sus posibilidades. 
-Y a Anthropic, por haber desarrollado Claude. 
+Al Soft Studio Wing, por hacer un juego tan asombroso en 1985 pese a tener muy pocos medios.\
+Al usuario de YouTube F_T_B, por su divulgativo vídeo sobre el estudio que me descubrió este juego y otros que se traducirán próximamente.\
+A araubi, por haber iniciado sus traducciones con Claude y hacerme ver sus posibilidades.\
+Y a Anthropic, por haber desarrollado Claude.\
