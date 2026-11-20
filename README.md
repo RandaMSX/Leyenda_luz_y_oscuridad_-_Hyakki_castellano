@@ -8,7 +8,7 @@ Versión traducida (v1.0) en openMSX, con un Sony HB-F500 (MSX2 japonés).
 | | |
 |---|---|
 | ![Pantalla de título](capturas/captura1.png) | ![Introducción en castellano](capturas/captura2.png) |
-| Pantalla de título | Introducción |
+| Pantalla de título | Primera aparición de Hyakki |
 | ![Piso 3: BUSCAR BUZON](capturas/captura3.png) | ![Habitación A: BUSCAR MESA](capturas/captura4.png) |
 | Piso 3: `BUSCAR` `BUZON` | Habitación A: `BUSCAR` `MESA` |
 
