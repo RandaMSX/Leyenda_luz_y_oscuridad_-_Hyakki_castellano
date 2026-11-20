@@ -31,7 +31,7 @@ El parche es [`releases/LLO_Hyakki_ES_v1.0.ips`](releases/LLO_Hyakki_ES_v1.0.ips
 Elige una de estas formas:
 
 
-**Con Floating IPS o Lunar IPS** (Windows): «Apply Patch», elige el `.ips` y después el CAS original. Trabaja sobre una copia, porque Lunar IPS modifica el fichero elegido.
+**Con Floating IPS o Lunar IPS** (Windows): «Apply Patch», elige el `.ips` y después el DSK en japonés. Trabaja sobre una copia, porque Lunar IPS modifica el fichero elegido.
 
   ```
 
