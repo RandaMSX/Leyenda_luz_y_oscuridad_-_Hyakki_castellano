@@ -33,7 +33,6 @@ Elige una de estas formas:
 
 **Con Floating IPS o Lunar IPS** (Windows): «Apply Patch», elige el `.ips` y después el DSK en japonés. Trabaja sobre una copia, porque Lunar IPS modifica el fichero elegido.
 
-  ```
 
 El resultado debe ser este:
 
