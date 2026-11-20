@@ -12,6 +12,6 @@ Y a Anthropic, por haber desarrollado Claude.
 ## Créditos y Copyright
 
 * **Traducción y herramientas:** Copyright (c) 2026 randamhajile. Distribuido bajo la licencia CC BY-NC-SA 4.0.
-* **Juego original:** 白と黒の伝説［百鬼編］ (Shiro to kuno no densetsu: Hyakki hen) es propiedad intelectual y marca registrada de Soft Studio Wing. 
+* **Juego original:** 白と黒の伝説［百鬼編］ (Shiro to kuro no densetsu: Hyakki hen) es propiedad intelectual y marca registrada de Soft Studio Wing. 
 
 Este proyecto es una traducción hecha por fans sin ánimo de lucro. No contiene archivos originales protegidos por derechos de autor del juego; requiere una copia legítima del título para funcionar.
