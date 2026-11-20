@@ -19,7 +19,7 @@ El juego correspondiente a la recopilación de la saga en formato DSK, exactamen
 | | Valor |
 | --- | --- |
 | Nombre habitual | `Legend of White and Black Compilation - Hyakki-Hen (1991)(Soft Studio WING).dsk` |
-| Tamaño | 737.280 bytes |
+| Tamaño | 737 280 bytes |
 | CRC32 | `962ffefe` |
 | MD5 | `8628015bd2155e7b6f17b5c83497468b` |
 | SHA-1 | `9ff194aa42cf4a5e5381a7ccae0153bfc51ebb38` |
@@ -38,10 +38,10 @@ El resultado debe ser este:
 
 | | Valor |
 | --- | --- |
-| Tamaño | 11 824 bytes |
-| CRC32 | `9B4320D7` |
-| MD5 | `0b71d3b725fc6c47e164f41d161ffaa0` |
-| SHA-1 | `3406183951e717e5c66e1c4098c737a7ef4d60eb` |
+| Tamaño | 737 280 bytes |
+| CRC32 | `7142002c` |
+| MD5 | `617e8ff81543642f2f9f0a15177b8366` |
+| SHA-1 | `152c013a8cbb4efaa21c25f4621356bb71568ee2` |
 
 
 ## Créditos
