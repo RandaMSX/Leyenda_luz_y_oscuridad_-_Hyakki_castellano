@@ -8,3 +8,10 @@ Al Soft Studio Wing, por hacer un juego tan asombroso en 1985 pese a tener muy p
 Al usuario de YouTube F_T_B, por su divulgativo vídeo sobre el estudio que me descubrió este juego y otros que se traducirán próximamente.<br><br>
 A araubi, por haber iniciado sus traducciones con Claude y hacerme ver sus posibilidades.<br><br>
 Y a Anthropic, por haber desarrollado Claude.
+
+## Créditos y Copyright
+
+* **Traducción y herramientas:** Copyright (c) 2026 randamhajile. Distribuido bajo la licencia CC BY-NC-SA 4.0.
+* **Juego original:** 白と黒の伝説［百鬼編］ (Shiro to kuno no densetsu: Hyakki hen) es propiedad intelectual y marca registrada de Soft Studio Wing. 
+
+Este proyecto es una traducción hecha por fans sin ánimo de lucro. No contiene archivos originales protegidos por derechos de autor del juego; requiere una copia legítima del título para funcionar.
