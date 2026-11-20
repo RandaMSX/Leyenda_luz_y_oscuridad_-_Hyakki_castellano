@@ -1,3 +1,5 @@
+## Hyakki
 El nombre “Hyakki” (100 demonios) es una referencia a una leyenda popular en el folklore japonés, Hyakki Yagyō, “el desfile nocturno de los cien demonios”. Es una referencia a un desfile de miles de criaturas sobrenaturales, conocidas como oni y yōkai, que recorren las calles de Japón durante la noche. También se entiende como una imprevista irrupción de lo sobrenatural en el mundo real, que es precisamente lo que ocurre en el juego.
 
+## Hyakuji
 El nombre del tempo Hyakuji (100 horas) es un juego de palabras basado en Hyakki (100 demonios), ya que ambas palabras empiezas por “Hyaku” y ambas acaban en “i”. Dicho templo es ficticio.
